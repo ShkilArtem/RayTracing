@@ -1,7 +1,6 @@
 #pragma once
 
-#include <cmath>
-#include <iostream>
+#include "utilities.h"
 
 class vec3 {
 public: 
