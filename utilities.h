@@ -19,3 +19,4 @@ inline double degrees_to_radians(double degrees){
 #include "color.h"
 #include "vec3.h"
 #include "ray.h"
+#include "interval.h"
