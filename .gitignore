@@ -12,6 +12,7 @@ install_manifest.txt
 
 # 3) Visual Studio
 .vs/
+.vscode/
 /*.sln
 /*.vcxproj*
 /*.vcxproj.filters
