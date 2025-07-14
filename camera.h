@@ -9,7 +9,7 @@ class camera {
         double aspect_ration;
 	    int image_width;
         int sample_per_pixel = 10;
-        int max_depth = 10;
+        int max_depth;
 
         void render(const hittable& world){
 
