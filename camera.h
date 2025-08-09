@@ -73,7 +73,7 @@ class camera {
             
             w = unit_vector(lookfrom - lookat);
             u = unit_vector(cross(vup, w));
-            v = cross(u,w);
+            v = cross(w,u);
 
 
             auto viewport_u = viewport_width * u;
